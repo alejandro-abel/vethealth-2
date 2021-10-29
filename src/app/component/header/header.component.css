@@ -1,0 +1,24 @@
+.header{
+  background-color: blue;
+  max-height: 80px;
+  height: 80px;
+  width: 100%;
+}
+
+.user-section {
+  text-align: right;
+  padding: 20px;
+}
+
+.material-icons {
+  cursor: pointer;
+  margin-right: 15px;
+}
+
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+p {
+  margin-block-end: 0;
+}
